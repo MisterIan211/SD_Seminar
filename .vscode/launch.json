@@ -8,7 +8,7 @@
             "environmentType": "OnPrem",
             "server": "http://localhost:8080/BC260",
             "serverInstance": "BC260",
-            "authentication": "Windows"
+            "authentication": "Windows",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
